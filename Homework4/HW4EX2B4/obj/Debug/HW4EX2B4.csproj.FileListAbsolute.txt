@@ -1,0 +1,35 @@
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\bin\Debug\HW4EX2B4.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\bin\Debug\HW4EX2B4.pdb
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\obj\Debug\HW4EX2B4.csprojAssemblyReference.cache
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\obj\Debug\HW4EX2B4.csproj.CoreCompileInputs.cache
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\obj\Debug\HW4EX2B4.csproj.CopyComplete
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\obj\Debug\HW4EX2B4.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\obj\Debug\HW4EX2B4.pdb
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\bin\Debug\HW4EX2B4.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\bin\Debug\HW4EX2B4.pdb
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\obj\Debug\HW4EX2B4.csprojAssemblyReference.cache
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\obj\Debug\HW4EX2B4.csproj.CoreCompileInputs.cache
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\obj\Debug\HW4EX2B4.csproj.CopyComplete
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\obj\Debug\HW4EX2B4.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\obj\Debug\HW4EX2B4.pdb
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\obj\Debug\HW4EX2B4.csproj.CoreCompileInputs.cache
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\obj\Debug\HW4EX2B4.pdb
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\HW4EX2B4.dll.config
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\HW4EX2B4.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\HW4EX2B4.pdb
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\obj\Debug\HW4EX2B4.csproj.CopyComplete
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\obj\Debug\HW4EX2B4.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX2B4\obj\Debug\HW4EX2B4.csprojAssemblyReference.cache

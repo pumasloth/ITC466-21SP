@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4EX1Code", "HW4EX1Code.csproj", "{F689C500-0A61-44E7-86F9-9C6ECA3C5970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW4EX1CodeTests", "..\HW4EX1CodeTests\HW4EX1CodeTests.csproj", "{959C0F93-457C-4169-9FAA-2DF05D1D7EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F689C500-0A61-44E7-86F9-9C6ECA3C5970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F689C500-0A61-44E7-86F9-9C6ECA3C5970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F689C500-0A61-44E7-86F9-9C6ECA3C5970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F689C500-0A61-44E7-86F9-9C6ECA3C5970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959C0F93-457C-4169-9FAA-2DF05D1D7EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959C0F93-457C-4169-9FAA-2DF05D1D7EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959C0F93-457C-4169-9FAA-2DF05D1D7EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959C0F93-457C-4169-9FAA-2DF05D1D7EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83E5CF49-F785-4624-A452-9168932AE37A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "owssCC9ut7u7m++dBKwOMOZ/rAwQZEBC3/N14wP9QNxWKXUjXcIVWu5yHsxB2T68QXcpiOehMQvBQDRCghvLmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\penro\\Documents\\School\\2020-2021\\Spring 2021\\ITC 466\\Github\\Homework4\\HW4EX1Code\\HW4EX1Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

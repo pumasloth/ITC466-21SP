@@ -1,0 +1,9 @@
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX1Code\bin\Debug\netstandard2.0\HW4EX1Code.deps.json
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX1Code\bin\Debug\netstandard2.0\HW4EX1Code.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX1Code\bin\Debug\netstandard2.0\HW4EX1Code.pdb
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX1Code\obj\Debug\netstandard2.0\HW4EX1Code.csprojAssemblyReference.cache
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX1Code\obj\Debug\netstandard2.0\HW4EX1Code.AssemblyInfoInputs.cache
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX1Code\obj\Debug\netstandard2.0\HW4EX1Code.AssemblyInfo.cs
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX1Code\obj\Debug\netstandard2.0\HW4EX1Code.csproj.CoreCompileInputs.cache
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX1Code\obj\Debug\netstandard2.0\HW4EX1Code.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework4\HW4EX1Code\obj\Debug\netstandard2.0\HW4EX1Code.pdb
