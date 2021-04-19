@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW5AsyncCoffee", "HW5AsyncCoffee.csproj", "{E404CB09-45E8-4C90-B02E-48A51036C880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW5AsyncCoffee.Tests", "..\HW5AsyncCoffee.Tests\HW5AsyncCoffee.Tests.csproj", "{7228F2C3-FF6A-45B6-9A7C-FF9B87795D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E404CB09-45E8-4C90-B02E-48A51036C880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E404CB09-45E8-4C90-B02E-48A51036C880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E404CB09-45E8-4C90-B02E-48A51036C880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E404CB09-45E8-4C90-B02E-48A51036C880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7228F2C3-FF6A-45B6-9A7C-FF9B87795D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7228F2C3-FF6A-45B6-9A7C-FF9B87795D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7228F2C3-FF6A-45B6-9A7C-FF9B87795D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7228F2C3-FF6A-45B6-9A7C-FF9B87795D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C9C3125-7DFD-425A-8D44-12D90C2ABDF2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\bin\Debug\netcoreapp3.1\HW5AsyncCoffee.exe
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\bin\Debug\netcoreapp3.1\HW5AsyncCoffee.deps.json
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\bin\Debug\netcoreapp3.1\HW5AsyncCoffee.runtimeconfig.json
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\bin\Debug\netcoreapp3.1\HW5AsyncCoffee.runtimeconfig.dev.json
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\bin\Debug\netcoreapp3.1\HW5AsyncCoffee.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\bin\Debug\netcoreapp3.1\HW5AsyncCoffee.pdb
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\obj\Debug\netcoreapp3.1\HW5AsyncCoffee.csprojAssemblyReference.cache
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\obj\Debug\netcoreapp3.1\HW5AsyncCoffee.AssemblyInfoInputs.cache
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\obj\Debug\netcoreapp3.1\HW5AsyncCoffee.AssemblyInfo.cs
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\obj\Debug\netcoreapp3.1\HW5AsyncCoffee.csproj.CoreCompileInputs.cache
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\obj\Debug\netcoreapp3.1\HW5AsyncCoffee.dll
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\obj\Debug\netcoreapp3.1\HW5AsyncCoffee.pdb
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework5\HW5AsyncCoffee\obj\Debug\netcoreapp3.1\HW5AsyncCoffee.genruntimeconfig.cache

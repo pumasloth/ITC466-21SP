@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7998a818_002Db13d_002D4f74_002D9dd7_002Da0f4137830a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="MakeToastWithButterAndJamAsyncAOORExceptionTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7228F2C3-FF6A-45B6-9A7C-FF9B87795D31::.NETCoreApp,Version=v3.1::HW5AsyncCoffee.Tests.UnitTests.MakeToastWithButterAndJamAsyncAOORExceptionTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dc0536e0_002De938_002D4e90_002Dbcf4_002D17e50c899a2e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::7228F2C3-FF6A-45B6-9A7C-FF9B87795D31::.NETCoreApp,Version=v3.1::HW5AsyncCoffee.Tests.UnitTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

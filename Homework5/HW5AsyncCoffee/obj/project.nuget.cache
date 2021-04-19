@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFFpRVcVZngVEP4ukqzvjNs0XyNo6FiMMp+whWPYau9xeImV6WdTDHJywio9x1yG0PMwA/H324KewFa6uGPijA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\penro\\Documents\\School\\2020-2021\\Spring 2021\\ITC 466\\Github\\Homework5\\HW5AsyncCoffee\\HW5AsyncCoffee.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
