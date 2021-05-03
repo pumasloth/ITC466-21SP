@@ -1,0 +1,7 @@
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework6\LinqConsoleApp\bin\Debug\LinqConsoleApp.exe.config
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework6\LinqConsoleApp\bin\Debug\LinqConsoleApp.exe
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework6\LinqConsoleApp\bin\Debug\LinqConsoleApp.pdb
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework6\LinqConsoleApp\obj\Debug\LinqConsoleApp.csprojAssemblyReference.cache
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework6\LinqConsoleApp\obj\Debug\LinqConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework6\LinqConsoleApp\obj\Debug\LinqConsoleApp.exe
+C:\Users\penro\Documents\School\2020-2021\Spring 2021\ITC 466\Github\Homework6\LinqConsoleApp\obj\Debug\LinqConsoleApp.pdb
